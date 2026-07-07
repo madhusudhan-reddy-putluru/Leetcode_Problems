@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1922-count-good-numbers) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
