@@ -25,5 +25,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0131-palindrome-partitioning](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0037-sudoku-solver) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
