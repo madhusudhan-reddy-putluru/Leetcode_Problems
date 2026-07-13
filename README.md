@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1025-divisor-game) |
 | [1922-count-good-numbers](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
+| [1025-divisor-game](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,8 +58,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
