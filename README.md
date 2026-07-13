@@ -33,12 +33,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0051-n-queens) |
+| [1331-rank-transform-of-an-array](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0037-sudoku-solver) |
+| [1331-rank-transform-of-an-array](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/0037-sudoku-solver) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/madhusudhan-reddy-putluru/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
